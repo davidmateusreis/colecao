@@ -29,7 +29,7 @@ public class SpringFoxConfig {
 
         ApiInfo apiInfo = new ApiInfo(
                 "Game List API REST",
-                "Create an awesome game list.",
+                "You can create an awesome game list using this service.",
                 "1.0",
                 "Terms of Service",
                 new Contact("David", "https://github.com/davidmateusreis",
